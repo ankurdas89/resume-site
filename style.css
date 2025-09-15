@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.profile h2 {
+    margin: 5px 0;
+    color: #666;
+}
+
+.resume section {
+    margin-bottom: 20px;
+}
+
+.resume h3 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.resume ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.resume ul li {
+    margin-bottom: 5px;
+}
